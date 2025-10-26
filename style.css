@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0b0d10 url("./supermarket.png") center / cover no-repeat fixed;
+  display: grid;
+  place-items: center;
+}
+
+canvas {
+  display: block;
+  background: transparent;
+}
